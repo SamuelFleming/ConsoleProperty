@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sam.fleming/Desktop/UniFiles/CAB201/Submission1/A2_Draft2/A2_Draft2/A2_Draft2.csproj",
+      "projectUniqueName": "/Users/sam.fleming/Desktop/IT Projects/A2_Draft2/A2_Draft2/A2_Draft2.csproj",
       "projectName": "A2_Draft2",
-      "projectPath": "/Users/sam.fleming/Desktop/UniFiles/CAB201/Submission1/A2_Draft2/A2_Draft2/A2_Draft2.csproj",
+      "projectPath": "/Users/sam.fleming/Desktop/IT Projects/A2_Draft2/A2_Draft2/A2_Draft2.csproj",
       "packagesPath": "/Users/sam.fleming/.nuget/packages/",
-      "outputPath": "/Users/sam.fleming/Desktop/UniFiles/CAB201/Submission1/A2_Draft2/A2_Draft2/obj/",
+      "outputPath": "/Users/sam.fleming/Desktop/IT Projects/A2_Draft2/A2_Draft2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sam.fleming/.config/NuGet/NuGet.Config"
